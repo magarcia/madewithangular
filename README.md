@@ -1,6 +1,6 @@
 # What have you built using Angular? #YouCanSitWithUS
 
-We want to see what you have created with Angular in your personal projects or inside your companies and demonstrate what's possible to do with Angular and to showcase how it's being used in the world during AngularCamp.
+We want to see what you have created with Angular in your personal projects or inside your companies and demontrate what's possible to do with Angular and to showcase how it's being used in different ways around the world during AngularCamp.
 
 ## Submit a site
 
